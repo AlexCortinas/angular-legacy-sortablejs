@@ -3,7 +3,7 @@
         "RubaXa <trash@rubaxa>"
     ],
     "dependencies": {
-        "sortablejs": "1.4.2"
+        "sortablejs": "1.4.0"
     },
     "description": "Angular 1.x (legacy) directive for SortableJS.",
     "homepage": "https://github.com/SortableJS/angular-legacy-sortablejs",
